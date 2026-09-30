@@ -4,6 +4,10 @@
   "description": "Student Task Manager Web Application",
   "main": "script.js",
   "scripts": {
-    "build": "echo Building Student Task Manager..."
+    "build": "echo Building Student Task Manager...",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
   }
 }
